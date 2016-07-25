@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.xiang.neonlightproject.MainActivity">
+
+    <TextView
+        android:background="#f00"
+        android:height="320pt"
+        android:width="320pt"
+        android:layout_gravity="center"
+        android:id="@+id/view1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        />
+
+    <TextView
+        android:background="#0f0"
+        android:height="180pt"
+        android:width="280pt"
+        android:layout_gravity="center"
+        android:id="@+id/view2"
+        android:layout_width="match_parent"
+        android:layout_height="514dp"
+        />
+
+    <TextView
+        android:background="#00f"
+        android:height="240pt"
+        android:width="240pt"
+        android:layout_gravity="center"
+        android:id="@+id/view3"
+        android:layout_width="match_parent"
+        android:layout_height="363dp"
+        />
+
+    <TextView
+        android:background="#ff0"
+        android:height="200pt"
+        android:width="200pt"
+        android:layout_gravity="center"
+        android:id="@+id/view4"
+        android:layout_width="match_parent"
+        android:layout_height="222dp"
+        />
+
+    <TextView
+        android:background="#f0f"
+        android:height="160pt"
+        android:width="160pt"
+        android:layout_gravity="center"
+        android:id="@+id/view5"
+        android:layout_width="match_parent"
+        android:layout_height="111dp"
+        />
+
+
+    <TextView
+        android:background="#0ff"
+        android:height="120pt"
+        android:width="120pt"
+        android:layout_gravity="center"
+        android:id="@+id/view6"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        />
+</FrameLayout>
